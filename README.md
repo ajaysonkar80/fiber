@@ -1,7 +1,10 @@
 ---
-title: Fiber
-description: A Fiber web server
+title: Question paper generator using Posgres and Fiber
+
+description: I have created a question paper generator using posgres, fiber (golang) as backend. In this project the posgres will be used to store the questions. There will be two different UI dashboards. Firstly the Question input to database secondly the Question paper generator from the databse.
+
 tags:
+  - posgres
   - fiber
   - golang
 ---
